@@ -1,0 +1,17 @@
+{
+    "result": [[
+        {
+            "name": "textInput",
+            "status": "off"
+        },
+        {
+            "name": "cursorDisplay",
+            "status": "off"
+        },
+        {
+            "name": "webBrowse",
+            "status": "off"
+        }
+    ]],
+    "id": 55
+}

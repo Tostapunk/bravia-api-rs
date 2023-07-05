@@ -1,0 +1,6 @@
+{
+    "method": "getContentCount",
+    "id": 11,
+    "params": [{"source": "extInput:hdmi"}],
+    "version": "1.0"
+}

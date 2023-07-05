@@ -1,0 +1,9 @@
+{
+    "method": "setLEDIndicatorStatus",
+    "id": 53,
+    "params": [{
+        "mode": "Demo",
+        "status": "true"
+    }],
+    "version": "1.1"
+}

@@ -1,0 +1,216 @@
+{
+  "result": [
+    [
+      {
+        "service": "system",
+        "protocols": [
+          "xhrpost:jsonizer"
+        ],
+        "apis": [
+          {
+            "name": "getMethodTypes",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getVersions",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getDeviceMode",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "requestReboot",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getInterfaceInformation",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getRemoteDeviceSettings",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getNetworkSettings",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "setDeviceMode",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getSystemSupportedFunction",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getPowerSavingMode",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "setWolMode",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getWolMode",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "setPowerSavingMode",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "mountStorage",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "setPowerStatus",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getLEDIndicatorStatus",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getPowerStatus",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getCurrentTime",
+            "versions": [
+              {
+                "version": "1.0"
+              },
+              {
+                "version": "1.1"
+              }
+            ]
+          },
+          {
+            "name": "getStorageList",
+            "versions": [
+              {
+                "version": "1.1",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getSystemInformation",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "private"
+              }
+            ]
+          },
+          {
+            "name": "getRemoteControllerInfo",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "setLEDIndicatorStatus",
+            "versions": [
+              {
+                "version": "1.1",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "setLanguage",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "id": 1
+}

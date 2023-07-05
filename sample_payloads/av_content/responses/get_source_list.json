@@ -1,0 +1,9 @@
+{
+    "result": [[
+        {"source": "extInput:hdmi"},
+        {"source": "extInput:component"},
+        {"source": "extInput:cec"},
+        {"source": "extInput:widi"}
+    ]],
+    "id": 1
+}

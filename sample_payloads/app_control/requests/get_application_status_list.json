@@ -1,0 +1,6 @@
+{
+    "method": "getApplicationStatusList",
+    "id": 55,
+    "params": [],
+    "version": "1.0"
+}

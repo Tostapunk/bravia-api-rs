@@ -1,0 +1,9 @@
+{
+    "method": "setSoundSettings",
+    "id": 5,
+    "params": [{"settings": [{
+        "value": "speaker",
+        "target": "outputTerminal"
+    }]}],
+    "version": "1.1"
+}

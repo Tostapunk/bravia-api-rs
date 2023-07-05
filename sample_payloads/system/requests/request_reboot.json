@@ -1,0 +1,6 @@
+{
+    "method": "requestReboot",
+    "id": 10,
+    "params": [],
+    "version": "1.0"
+}

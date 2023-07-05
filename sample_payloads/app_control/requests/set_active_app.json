@@ -1,0 +1,8 @@
+{
+    "method": "setActiveApp",
+    "id": 601,
+    "params": [{
+        "uri": "localapp://webappruntime?url=http%3A%2F%2Fexample.com%2F"
+    }],
+    "version": "1.0"
+}

@@ -1,0 +1,48 @@
+{
+  "result": [
+    [
+      {
+        "service": "video",
+        "protocols": [
+          "xhrpost:jsonizer"
+        ],
+        "apis": [
+          {
+            "name": "getMethodTypes",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getVersions",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getPictureQualitySettings",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "setPictureQualitySettings",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "id": 1
+}

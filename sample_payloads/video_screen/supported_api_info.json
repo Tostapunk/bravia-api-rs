@@ -1,0 +1,133 @@
+{
+  "result": [
+    [
+      {
+        "service": "videoScreen",
+        "protocols": [
+          "xhrpost:jsonizer"
+        ],
+        "apis": [
+          {
+            "name": "getMethodTypes",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getVersions",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "setBannerMode",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "setAudioSourceScreen",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "requestToNotifyScreenState",
+            "versions": [
+              {
+                "version": "1.1"
+              }
+            ]
+          },
+          {
+            "name": "setMultiScreenMode",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getPipSubScreenPosition",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "setPipSubScreenPosition",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getBannerMode",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getSceneSetting",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "setPapScreenSize",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getMultiScreenMode",
+            "versions": [
+              {
+                "version": "1.1"
+              }
+            ]
+          },
+          {
+            "name": "getAudioSourceScreen",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "setSceneSetting",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "id": 1
+}

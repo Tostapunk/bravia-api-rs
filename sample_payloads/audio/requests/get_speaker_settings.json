@@ -1,0 +1,6 @@
+{
+    "method": "getSpeakerSettings",
+    "id": 67,
+    "params": [{"target": "tvPosition"}],
+    "version": "1.0"
+}

@@ -1,0 +1,6 @@
+{
+    "method": "getSourceList",
+    "id": 1,
+    "params": [{"scheme": "extInput"}],
+    "version": "1.0"
+}

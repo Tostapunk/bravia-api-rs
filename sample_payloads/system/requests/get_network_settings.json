@@ -1,0 +1,6 @@
+{
+    "method": "getNetworkSettings",
+    "id": 2,
+    "params": [{"netif": "eth0"}],
+    "version": "1.0"
+}

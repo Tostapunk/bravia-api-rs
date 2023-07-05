@@ -1,0 +1,12 @@
+{
+    "result": [{
+        "generation": "5.0.1",
+        "product": "TV",
+        "serial": "1000001",
+        "name": "BRAVIA",
+        "language": "eng",
+        "model": "FW-55BZ35F",
+        "macAddr": "04:5D:4B:AD:6D:E1"
+    }],
+    "id": 33
+}

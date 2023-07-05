@@ -1,0 +1,6 @@
+{
+    "method": "setPowerStatus",
+    "id": 55,
+    "params": [{"status": false}],
+    "version": "1.0"
+}

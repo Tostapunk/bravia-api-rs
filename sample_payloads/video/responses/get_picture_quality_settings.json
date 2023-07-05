@@ -1,0 +1,13 @@
+{
+    "result": [[{
+        "target": "color",
+        "currentValue": "2",
+        "isAvailable": true,
+        "candidate": [{
+            "max": 100,
+            "min": 0,
+            "step": 1
+        }]
+    }]],
+    "id": 52
+}

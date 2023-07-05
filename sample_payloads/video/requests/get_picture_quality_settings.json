@@ -1,0 +1,8 @@
+{
+    "method": "getPictureQualitySettings",
+    "id": 52,
+    "params": [{
+        "target": "color"
+    }],
+    "version": "1.0"
+}

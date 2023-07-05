@@ -1,0 +1,6 @@
+{
+    "method": "getSoundSettings",
+    "id": 73,
+    "params": [{"target": "outputTerminal"}],
+    "version": "1.1"
+}

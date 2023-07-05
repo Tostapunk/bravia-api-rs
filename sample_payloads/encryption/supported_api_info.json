@@ -1,0 +1,39 @@
+{
+    "result": [
+      [
+        {
+          "service": "encryption",
+          "protocols": [
+            "xhrpost:jsonizer"
+          ],
+          "apis": [
+            {
+              "name": "getMethodTypes",
+              "versions": [
+                {
+                  "version": "1.0"
+                }
+              ]
+            },
+            {
+              "name": "getVersions",
+              "versions": [
+                {
+                  "version": "1.0"
+                }
+              ]
+            },
+            {
+              "name": "getPublicKey",
+              "versions": [
+                {
+                  "version": "1.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "id": 1
+  }

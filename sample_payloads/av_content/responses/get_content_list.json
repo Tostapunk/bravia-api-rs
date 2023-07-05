@@ -1,0 +1,25 @@
+{
+    "result": [[
+        {
+            "uri": "extInput:hdmi?port=1",
+            "title": "HDMI 1",
+            "index": 0
+        },
+        {
+            "uri": "extInput:hdmi?port=2",
+            "title": "HDMI 2",
+            "index": 1
+        },
+        {
+            "uri": "extInput:hdmi?port=3",
+            "title": "HDMI 3/ARC",
+            "index": 2
+        },
+        {
+            "uri": "extInput:hdmi?port=4",
+            "title": "HDMI 4",
+            "index": 3
+        }
+    ]],
+    "id": 88
+}

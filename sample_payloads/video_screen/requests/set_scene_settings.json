@@ -1,0 +1,6 @@
+{
+    "method": "setSceneSetting",
+    "id": 40,
+    "params": [{"value": "auto"}],
+    "version": "1.0"
+}

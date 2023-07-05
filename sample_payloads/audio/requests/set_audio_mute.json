@@ -1,0 +1,6 @@
+{
+    "method": "setAudioMute",
+    "id": 601,
+    "params": [{"status": true}],
+    "version": "1.0"
+}

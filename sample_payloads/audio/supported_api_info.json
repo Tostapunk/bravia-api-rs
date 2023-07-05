@@ -1,0 +1,95 @@
+{
+  "result": [
+    [
+      {
+        "service": "audio",
+        "protocols": [
+          "xhrpost:jsonizer"
+        ],
+        "apis": [
+          {
+            "name": "getMethodTypes",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getVersions",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "setAudioVolume",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              },
+              {
+                "version": "1.2",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getVolumeInformation",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getSoundSettings",
+            "versions": [
+              {
+                "version": "1.1"
+              }
+            ]
+          },
+          {
+            "name": "setSoundSettings",
+            "versions": [
+              {
+                "version": "1.1",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "setAudioMute",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "setSpeakerSettings",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getSpeakerSettings",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "id": 1
+}

@@ -1,0 +1,6 @@
+{
+    "method": "setTextForm",
+    "id": 601,
+    "params": ["hello world!!"],
+    "version": "1.0"
+}

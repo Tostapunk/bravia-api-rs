@@ -1,0 +1,10 @@
+{
+    "method": "setAudioVolume",
+    "id": 98,
+    "params": [{
+        "volume": "5",
+        "ui": "on",
+        "target": "speaker"
+    }],
+    "version": "1.2"
+}

@@ -1,0 +1,6 @@
+{
+    "method": "setWolMode",
+    "id": 55,
+    "params": [{"enabled": false}],
+    "version": "1.0"
+}

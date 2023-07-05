@@ -1,0 +1,33 @@
+{
+    "result": [[
+        {
+            "icon": "meta:game",
+            "connection": false,
+            "label": "GAME",
+            "title": "Component1",
+            "uri": "extInput:component?port=1"
+        },
+        {
+            "icon": "meta:component",
+            "connection": true,
+            "label": "",
+            "title": "Component2",
+            "uri": "extInput:component?port=2"
+        },
+        {
+            "icon": "meta:hdmi",
+            "connection": true,
+            "label": "",
+            "title": "HDMI1",
+            "uri": "extInput:hdmi?port=1"
+        },
+        {
+            "icon": "meta:recordingdevice",
+            "connection": true,
+            "label": "BDPlayer",
+            "title": "Player1",
+            "uri": "extInputs:cec?type=player&port=1"
+        }
+    ]],
+    "id": 105
+}

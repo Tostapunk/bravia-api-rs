@@ -1,0 +1,6 @@
+{
+    "method": "getRemoteDeviceSettings",
+    "id": 44,
+    "params": [{"target": "accessPermission"}],
+    "version": "1.0"
+}

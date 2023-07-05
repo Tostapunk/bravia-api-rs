@@ -1,0 +1,10 @@
+{
+    "method": "getContentList",
+    "id": 88,
+    "params": [{
+        "stIdx": 0,
+        "cnt": 50,
+        "uri": "extInput:hdmi"
+    }],
+    "version": "1.5"
+}

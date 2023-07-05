@@ -1,0 +1,29 @@
+{
+    "result": [[
+        {
+            "hwAddr": "FF-FF-FF-FF-FF-FF",
+            "netmask": "255.255.255.0",
+            "ipAddrV4": "0.0.0.0",
+            "netif": "eth0",
+            "ipAddrV6": "ffff::ffff:ffff:fffd%7",
+            "dns": [
+                "0.0.0.0",
+                "1.1.1.1"
+            ],
+            "gateway": "0.0.0.0"
+        },
+        {
+            "hwAddr": "00-00-00-00-00-00",
+            "netmask": "255.255.255.0",
+            "ipAddrV4": "0.0.0.1",
+            "netif": "wlan0",
+            "ipAddrV6": "ffff::ffff:ffff:fffd%8",
+            "dns": [
+                "0.0.0.0",
+                "fec0:0:0:ffff::1%1"
+            ],
+            "gateway": "0.0.0.0"
+        }
+    ]],
+    "id": 2
+}

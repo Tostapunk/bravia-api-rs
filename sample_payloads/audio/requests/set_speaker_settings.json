@@ -1,0 +1,9 @@
+{
+    "method": "setSpeakerSettings",
+    "id": 62,
+    "params": [{"settings": [{
+        "value": "wallMount",
+        "target": "tvPosition"
+    }]}],
+    "version": "1.0"
+}

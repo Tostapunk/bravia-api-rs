@@ -1,0 +1,6 @@
+{
+    "method": "setPlayContent",
+    "id": 101,
+    "params": [{"uri": "extInput:hdmi?port=2"}],
+    "version": "1.0"
+}

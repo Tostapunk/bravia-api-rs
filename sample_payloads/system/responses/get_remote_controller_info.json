@@ -1,0 +1,23 @@
+{
+    "result": [
+        {
+            "bundled": true,
+            "type": "IR_REMOTE_BUNDLE_TYPE_AEP"
+        },
+        [
+            {
+                "name": "PowerOff",
+                "value": "AAAAAQAAAAEAAAAvAw=="
+            },
+            {
+                "name": "Input",
+                "value": "AAAAAQAAAAEAAAAlAw=="
+            },
+            {
+                "name": "Home",
+                "value": "AAAAAQAAAAEAAABgAw=="
+            }
+        ]
+    ],
+    "id": 54
+}

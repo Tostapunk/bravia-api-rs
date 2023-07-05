@@ -1,0 +1,32 @@
+[package]
+name = "bravia_api"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mattia Schiavon <s.mattia2000@gmail.com>"]
+description = "Sony Bravia API wrapper"
+documentation = "https://docs.rs/bravia_api"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Tostapunk/bravia-api-rs"
+keywords = ["display", "remote control", "bravia", "sony", "controller", "tv", "television"]
+categories = ["api-bindings"]
+readme = "README.md"
+include = [
+    "sample_payloads/*",
+    "src/*",
+    "tests/*",
+    "Cargo.toml",
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "README.md"
+]
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+reqwest = { version = "0.11", default-features = false, features = ["json"] }
+derive_builder = "0.12"
+thiserror = "1.0"
+
+[dev-dependencies]
+tokio = { version = "1", features = ["rt", "rt-multi-thread", "macros", "test-util"] }
+wiremock = "0.5"

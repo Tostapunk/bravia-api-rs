@@ -1,0 +1,97 @@
+{
+  "result": [
+    [
+      {
+        "service": "appControl",
+        "protocols": [
+          "xhrpost:jsonizer"
+        ],
+        "apis": [
+          {
+            "name": "getMethodTypes",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getVersions",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "getApplicationStatusList",
+            "versions": [
+              {
+                "version": "1.0"
+              }
+            ]
+          },
+          {
+            "name": "terminateApps",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getTextForm",
+            "versions": [
+              {
+                "version": "1.1",
+                "authLevel": "private"
+              }
+            ]
+          },
+          {
+            "name": "setActiveApp",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "setTextForm",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "generic"
+              },
+              {
+                "version": "1.1",
+                "authLevel": "generic"
+              }
+            ]
+          },
+          {
+            "name": "getWebAppStatus",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "private"
+              }
+            ]
+          },
+          {
+            "name": "getApplicationList",
+            "versions": [
+              {
+                "version": "1.0",
+                "authLevel": "private"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "id": 1
+}

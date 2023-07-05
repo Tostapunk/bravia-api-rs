@@ -1,0 +1,6 @@
+{
+    "method": "setPowerSavingMode",
+    "id": 52,
+    "params": [{"mode": "pictureOff"}],
+    "version": "1.0"
+}

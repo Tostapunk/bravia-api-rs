@@ -1,0 +1,8 @@
+{
+    "result": [{
+        "source": "extInput:hdmi",
+        "title": "HDMI 2",
+        "uri": "extInput:hdmi?port=2"
+    }],
+    "id": 103
+}

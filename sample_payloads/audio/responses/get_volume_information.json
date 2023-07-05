@@ -1,0 +1,19 @@
+{
+    "result": [[
+        {
+            "volume": 25,
+            "minVolume": 0,
+            "mute": false,
+            "maxVolume": 100,
+            "target": "speaker"
+        },
+        {
+            "volume": 10,
+            "minVolume": 0,
+            "mute": false,
+            "maxVolume": 100,
+            "target": "headphone"
+        }
+    ]],
+    "id": 33
+}
